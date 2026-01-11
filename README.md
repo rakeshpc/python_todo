@@ -1,4 +1,4 @@
-# Sample Python Application
+# Python Application
 
 A simple Flask REST API for managing TODO items.
 
@@ -85,3 +85,4 @@ curl -X DELETE http://localhost:5000/todos/1
 - This is a sample application using in-memory storage
 - Data will be lost when the server restarts
 - For production use, integrate with a database (PostgreSQL, MongoDB, etc.)
+
